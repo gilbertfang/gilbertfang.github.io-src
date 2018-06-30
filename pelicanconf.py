@@ -2,13 +2,13 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'purplecabbage'
-SITENAME = 'Purple Cabbage Blog'
+AUTHOR = 'Red Cabbage'
+SITENAME = 'The Dream of Cabbage'
 SITEURL = ''
 
 PATH = 'content'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'Asia/Hong_Kong'
 
 DEFAULT_LANG = 'English'
 
@@ -22,12 +22,12 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
          ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+         ('Jinja2', 'http://jinja.pocoo.org/' ),
+         )
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('LinkedIn of Red Cabbage', '#'),
+          )
 
 DEFAULT_PAGINATION = 10
 
