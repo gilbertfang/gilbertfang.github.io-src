@@ -34,7 +34,7 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-PLUGIN_PATHS = ['/home/purple/PDevWS/purpleblog/devenv/pelican-plugins', ]
+PLUGIN_PATHS = ['/home/cabbage/RCDevWS/saladworks/devenv/pelican-plugins', ]
 PLUGINS = ['i18n_subsites', ]
 JINJA_ENVIRONMENT = {
         'extensions': ['jinja2.ext.i18n'],
@@ -42,4 +42,4 @@ JINJA_ENVIRONMENT = {
 
 # Specify theme
 
-THEME = "/home/purple/PDevWS/purpleblog/devenv/cabbage/themes/pelican-bootstrap3"
+THEME = "/home/cabbage/RCDevWS/saladworks/devenv/saladworks/themes/pelican-bootstrap3"
