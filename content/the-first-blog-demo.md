@@ -4,3 +4,4 @@ Category: Demo
 Slug: the-first-demo
 
 Today, this is the first demo blog using pelican.
+Change some thing here;
